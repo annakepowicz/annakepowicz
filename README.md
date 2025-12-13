@@ -28,13 +28,14 @@ I am a **3rd-year Applied Computer Science student** at Wrocław University of S
 ---
 ### 🚀 What I've been working on recently
 
-#### 🏛️ **[Odyseusz 2.0 (Flask & Python)](https://github.com/AlicjaBonar/Odyseusz-2.0.git)**
+####  [![GithHub Repo](https://img.shields.io/badge/GitHub-Repo-bd93f9?style=flat&)](https://github.com/AlicjaBonar/Odyseusz-2.0.git) **Odyseusz 2.0 (Flask & Python)** 
 Collaborative Software Engineering project inspired by the Polish government's "Odyseusz".
 * **Goal:** A registration platform for citizens traveling abroad to facilitate evacuation and communication in case of emergencies.
 * **Key Tech:** Flask, SQLAlchemy, SQLite, HTML/CSS.
 * **Highlights:** Engineereing the system architecture (UML diagrams), following Software Engineering best practices and clean code principles.
  
-#### 🌐 **[.NET Web Applications](https://github.com/annakepowicz/web-lab.git)**
+####  [![Link](https://img.shields.io/badge/GitHub-Repo-bd93f9?style=flat&)](https://github.com/annakepowicz/web-lab.git) **.NET Web Applications** 
+
 Collection of laboratory solutions for "Web Applications on .NET" course.
 * **Key Tech:** C#, ASP.NET Core MVC.
 * **Highlights:** From basic HTTP protocols to complex MVC architecture with Dependency Injection.
