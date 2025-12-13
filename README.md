@@ -49,9 +49,3 @@ Collection of laboratory solutions for "Web Applications on .NET" course.
 </div>
 
 ---
-### Let's connect! 🤝
-<div>
-  <a href="https://www.linkedin.com/in/annakepowicz" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
