@@ -44,8 +44,6 @@ Collection of laboratory solutions for "Web Applications on .NET" course.
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annakepowicz&show_icons=true&theme=dracula&hide_border=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakepowicz&layout=compact&theme=dracula&hide_border=true" height="165" alt="languages" />
  <img alt="github contribution grid snake animation" <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annakepowicz/annakepowicz/output/github-contribution-grid-snake-dark.svg">
 </div>
 
