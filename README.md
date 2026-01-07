@@ -26,27 +26,13 @@ I am a **3rd-year Applied Computer Science student** at Wrocław University of S
 
 
 ---
-### 🚀 What I've been working on recently
-
-####  [![GithHub Repo](https://img.shields.io/badge/GitHub-Repo-bd93f9?style=flat&)](https://github.com/AlicjaBonar/Odyseusz-2.0.git) **Odyseusz 2.0 (Flask & Python)** 
-Collaborative Software Engineering project inspired by the Polish government's "Odyseusz".
-* **Goal:** A registration platform for citizens traveling abroad to facilitate evacuation and communication in case of emergencies.
-* **Key Tech:** Flask, SQLAlchemy, SQLite, HTML/CSS.
-* **Highlights:** Engineereing the system architecture (UML diagrams), following Software Engineering best practices and clean code principles.
- 
-####  [![Link](https://img.shields.io/badge/GitHub-Repo-bd93f9?style=flat&)](https://github.com/annakepowicz/web-lab.git) **.NET Web Applications** 
-
-Collection of laboratory solutions for "Web Applications on .NET" course.
-* **Key Tech:** C#, ASP.NET Core MVC.
-* **Highlights:** From basic HTTP protocols to complex MVC architecture with Dependency Injection.
----
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annakepowicz&show_icons=true&theme=dracula&hide_border=true" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakepowicz&layout=compact&theme=dracula&hide_border=true" height="165" alt="languages" />
- <img alt="github contribution grid snake animation" <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annakepowicz/annakepowicz/output/github-contribution-grid-snake-dark.svg">
+ </br>
+  <img alt="github contribution grid snake animation" <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annakepowicz/annakepowicz/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ---
